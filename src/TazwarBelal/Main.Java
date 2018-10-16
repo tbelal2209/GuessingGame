@@ -25,8 +25,6 @@ public class Main {
                 System.out.println("Guess my number again" + " " + name);
             }
             System.out.println("You guessed my number" + " " + name);
-
         }
-
     }
 }
