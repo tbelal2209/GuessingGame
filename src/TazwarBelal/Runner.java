@@ -1,7 +1,7 @@
 package com.company;
 
 public class Runner {
-    public static int[] simpleMerge(int [] arr1, int[] arr2)
+    public static int[] Merge(int [] arr1, int[] arr2)
     {
         int arr3 [] = new int[arr1.length+arr2.length];
         int ind = 0;
